@@ -1,58 +1,61 @@
-# Hi, I'm Leah 👋
+# 👋 Hi, I'm Leah
 
-**Full-Stack Developer | Data & AI Integrations**
+### 💻 Full-Stack Developer | Data & AI Integrations
 
-I build complete systems end to end: scalable backends and microservices, responsive frontends, and AI features (LLMs, Agentic RAG, MCP, computer vision) that work in real products.
-Currently developing AI-based applications at **Genpact**.
+Application developer at **Genpact**, building end-to-end applications for companies around the world.
 
 ---
 
-## 🚀 Featured Projects
+## 👩‍💻 About Me
 
-### ♟️ [Kung Fu Chess](https://github.com/leah-git1/kung-fu-chess)
-A real-time chess game with simultaneous, turnless movement: full rules engine, cooldown system, and OpenCV animations.
-- Microservices architecture of 9 services (FastAPI, WebSockets, NATS event bus)
-- Redis for hot state, PostgreSQL for storage, ELO-based matchmaking
-- Docker Compose and Kubernetes deployment, layered Clean Architecture
-
-`Python` `FastAPI` `WebSockets` `NATS` `Redis` `PostgreSQL` `OpenCV` `Docker` `Kubernetes`
-
-### 🧠 Evolve Coach (KamaTech x Nebius)
-AI coaching tool that gives developers feedback on how they work with AI assistants. Built in a team of 4 over 10 weeks.
-- My part: server-side integration with ChatGPT Enterprise, and cross-platform plugin support (Windows, macOS, Linux)
-
-`Node.js` `Bun` `TypeScript` `PostgreSQL` `MCP` `Docker`
-
-### 🏠 [Full-Stack Real Estate Platform with AI](https://github.com/leah-git1/real-estate-website)
-End-to-end property management platform with a REST API and responsive UI.
-- Multimodal AI assistant (voice and text) for natural-language property search
-- Instant AI valuation from uploaded photos or a live camera feed (computer vision)
-
-`C#` `ASP.NET Core 8` `Clean Architecture` `Angular` `Python` `OpenAI API`
-
-### 🤖 [Event-Driven Agentic RAG System](https://github.com/leah-git1/agentic-rag-real-estate)
-AI assistant built on event-driven workflows to resolve complex technical queries.
-- Smart routing between vector search (Pinecone and Cohere) and structured search
-
-`Python` `LlamaIndex` `Pinecone` `OpenAI API` `Cohere` `Gradio`
+* 💼 Application Developer at **Genpact**
+* 🎓 Practical Software Engineer (MAHAT), **KamaTech** program: Full-Stack, Data & AI track and bootcamp with Nebius
+* 🤖 Focus: LLMs, Agentic RAG, MCP, Computer Vision and full-stack development
+* 🏗️ I care about clean architecture, design patterns and well-structured, maintainable code
+* 🌱 Always learning: completed the Hugging Face LLM and AI Agents courses, and a Claude course by Anthropic
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Area | Technologies |
-|---|---|
-| **Languages** | Python, C#, TypeScript / JavaScript, SQL, Java |
-| **Backend** | ASP.NET Core, FastAPI, REST, WebSockets, Microservices |
-| **AI** | LLMs, Agentic RAG, MCP, LlamaIndex, LangChain, OpenAI API, Claude, Fine Tuning|
-| **Data & Vision** | OpenCV, NumPy, PyTorch |
-| **Cloud & DevOps** | Azure, AWS, Docker, Kubernetes, CI |
-| **Databases** | PostgreSQL, SQL Server, MongoDB, Redis, Pinecone |
-| **Frontend** | Angular, TypeScript, HTML, CSS, React |
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cs,ts,js,java,c,cpp,c++" />
+
+### Backend & Architecture
+
+<img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,bun" />
+
+**Also:** Microservices • Clean Architecture • Design Patterns • REST APIs • WebSockets • JWT • OWASP
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,js,ts" />
+
+### Databases & Messaging
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sql" />
+
+**Also:** SQL Server • Pinecone • NATS
+
+### AI & Data
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+
+**AI:** LLMs • Agentic RAG • MCP • Fine-tuning • LlamaIndex • LangChain • Transformers • vLLM • OpenAI API • Claude API • Prompt Engineering • LLM Security
+
+**Data & Vision:** CNNs • NumPy • K-means • KNN • SVM • Logistic Regression
+
+### Cloud, DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github" />
+
+**AI-assisted development:** Claude Code • GitHub Copilot • Cursor
 
 ---
 
-## 📫 Contact
+## 📫 Connect with me :)
 
-- 📧 [L0583263572@gmail.com](mailto:L0583263572@gmail.com)
-- 📞 058 - 3263572
+📧 **Email:** [L0583263572@gmail.com](mailto:L0583263572@gmail.com)
+
+🐙 **GitHub:** [leah-git1](https://github.com/leah-git1)
